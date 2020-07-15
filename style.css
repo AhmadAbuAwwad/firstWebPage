@@ -1,0 +1,196 @@
+h5{
+    display: inline;
+    margin: 20px;
+    font-family: cursive;
+}
+.headerz{
+    font-family: cursive;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.headeremoj{
+    position: absolute;
+    right: 140px;
+    font-family: cursive;
+    font-weight: lighter;
+    text-decoration: none;
+}
+.headere{
+    position: absolute;
+    right: 20px;
+    font-weight: lighter;
+    font-family: cursive;
+    text-decoration: none;
+}.headerem{
+    position: absolute;
+    right: 50px;
+    font-weight: lighter;
+    font-family: cursive;
+    text-decoration: none;
+}
+.headeremo{
+    position: absolute;
+    right: 80px;
+    font-family: cursive;
+    text-decoration: none;
+}
+body{
+    background-color: white;
+}
+
+.head-texts{
+    padding-top: 30px;
+    width: 70%;
+    position: relative;
+    left: 280px;
+    bottom: 10px;
+}
+
+.textfield{
+    height: 30px;
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: 5px;
+}
+
+.center{
+    width: 700px;
+    position: relative;
+    left: 290px;
+    bottom: 2600px;
+}
+
+.youtube{
+    border-radius: 80px;
+}
+
+.logo{
+    width: 4.2%;
+    position: absolute;
+}
+
+.left-cont{
+    position: static;
+    width: 20%;
+    background-color: cornsilk;
+    border-right:solid yellowgreen;
+    border-top: solid darkgrey;
+    height: 1300px;
+}
+
+.right-cont{
+    position: relative;
+    left: 1005px;
+    bottom: 1300px;
+    width: 25%;
+    border-left:solid yellowgreen;
+    height: 1330px;
+}
+
+.kondra{
+    height:25%;
+    width: 100%;
+}
+
+.priceimage{
+    width: 45%;
+    border-radius: 30px;
+}
+
+.priceimagetwo{
+    border-radius: 30px;
+    width: 100%
+}
+
+.rightsales{
+    position: relative;
+    width: 320px;
+    left: 380px;
+    bottom: 438px;
+}
+
+.white-shoe{
+    position: relative;
+    bottom: 400px;
+}
+
+.white{
+    border-radius: 30px;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+.white-text{
+    position: relative;
+    left: 40px;
+}
+
+h3{
+    font-family: cursive;
+}
+.under{
+    position: relative;
+    bottom: 2800px;
+    height: 400px;
+    width: 100%;
+    background-color: #7e7e7e;
+    text-align: left;
+    right: 50px;
+}
+.links{
+    font-family: cursive;
+    color:white;
+    font-weight: bold;
+    margin-left: 100px;
+    text-decoration: none;
+}
+.linkslighter{
+    text-decoration: none;
+    margin-left: 100px;
+    font-family: cursive;
+    color:white;
+    font-weight: lighter;
+}
+
+.leftunder{
+    display: grid;
+    width: 30%;
+    position: relative;
+    right: 300px;
+    top: 40px;
+}
+.rightunder{
+    display: grid;
+    width: 30%;
+    position: relative;
+    left: 700px;
+    bottom: 150px;
+}
+
+.midunder{
+    display: grid;
+    width: 30%;
+    position: relative;
+    bottom: 30px;
+}
